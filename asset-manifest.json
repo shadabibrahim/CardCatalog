@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardCatalog/static/css/main.b81bbaa5.css",
+    "main.js": "/CardCatalog/static/js/main.c49ea2b8.js",
+    "index.html": "/CardCatalog/index.html",
+    "main.b81bbaa5.css.map": "/CardCatalog/static/css/main.b81bbaa5.css.map",
+    "main.c49ea2b8.js.map": "/CardCatalog/static/js/main.c49ea2b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81bbaa5.css",
+    "static/js/main.c49ea2b8.js"
+  ]
+}
